@@ -1,0 +1,15 @@
+/Users/frrt/VSCode/C#/RecordsExercise/bin/Debug/net7.0/RecordsExercise
+/Users/frrt/VSCode/C#/RecordsExercise/bin/Debug/net7.0/RecordsExercise.deps.json
+/Users/frrt/VSCode/C#/RecordsExercise/bin/Debug/net7.0/RecordsExercise.runtimeconfig.json
+/Users/frrt/VSCode/C#/RecordsExercise/bin/Debug/net7.0/RecordsExercise.dll
+/Users/frrt/VSCode/C#/RecordsExercise/bin/Debug/net7.0/RecordsExercise.pdb
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/RecordsExercise.csproj.AssemblyReference.cache
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/RecordsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/RecordsExercise.AssemblyInfoInputs.cache
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/RecordsExercise.AssemblyInfo.cs
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/RecordsExercise.csproj.CoreCompileInputs.cache
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/RecordsExercise.dll
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/refint/RecordsExercise.dll
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/RecordsExercise.pdb
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/RecordsExercise.genruntimeconfig.cache
+/Users/frrt/VSCode/C#/RecordsExercise/obj/Debug/net7.0/ref/RecordsExercise.dll
